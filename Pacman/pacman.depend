@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641775336 source:d:\roha\pacman\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<MMsystem.h>
+
